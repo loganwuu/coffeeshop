@@ -1,0 +1,13 @@
+#name-and-slogan #site-slogan {
+  background-color: #ffffff;
+  color: #ff0000;
+  font-family: 'Comic Sans MS',Cursive;
+  font-style: normal;
+  text-align: center;
+}
+
+#header .section {
+  background-attachment: scroll;
+  background-color: #a2f296;
+}
+
